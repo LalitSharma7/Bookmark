@@ -1,2 +1,2 @@
 # To-Do-App
-A to do app using javascript
+A to do app using Angular js
